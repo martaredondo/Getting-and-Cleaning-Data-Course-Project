@@ -1,7 +1,7 @@
 **Code Book - Getting and Cleaning Data Course Project**
 
 **Data**
-tidy_dataset.txt is a text file, which contains the average of each variable for each activity and each subject.
+- tidy_dataset.txt is a text file, which contains the average of each variable for each activity and each subject.
 
 **Identifiers**
 - subject: integer, from 1 to 30;
