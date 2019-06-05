@@ -1,9 +1,9 @@
-#**Code Book - Getting and Cleaning Data Course Project
+#Code Book - Getting and Cleaning Data Course Project
 
-##**Data**
+##Data
 tidy_dataset.txt is a text file, which contains the average of each variable for each activity and each subject.
 
-##**Variables**
+##Variables
 
 ###Identifiers
 - subject: integer, from 1 to 30;
@@ -90,7 +90,7 @@ tidy_dataset.txt is a text file, which contains the average of each variable for
 -frequencyBodyGyroscopeJerkMagnitudeStd              
 -frequencyBodyGyroscopeJerkMagnitudeMeanFrequency
 
-##**Transformations**
+##Transformations
 1. Reading datasets from zip file (assuming zip file is already unziped and saved in local machine - link in README.md);
 2. Merging the training and the test sets to create one data set;
 3. Extracting only the measurements on the mean and standard deviation for each measurement;
