@@ -8,85 +8,85 @@ tidy_dataset.txt is a text file, which contains the average of each variable for
 - activity: factor with 6 levels (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTINGSTANDING, LAYING).
 
 **Measurements**
--timeBodyAccelerometerMeanX
--timeBodyAccelerometerMeanY
--timeBodyAccelerometerMeanZ
--timeBodyAccelerometerStdX                           
--timeBodyAccelerometerStdY
--timeBodyAccelerometerStdZ                           
--timeGravityAccelerometerMeanX
--timeGravityAccelerometerMeanY                 
--timeGravityAccelerometerMeanZ
--timeGravityAccelerometerStdX                        
--timeGravityAccelerometerStdY
--timeGravityAccelerometerStdZ                        
--timeBodyAccelerometerJerkMeanX
--timeBodyAccelerometerJerkMeanY                      
--timeBodyAccelerometerJerkMeanZ
--timeBodyAccelerometerJerkStdX                       
--timeBodyAccelerometerJerkStdY
--timeBodyAccelerometerJerkStdZ                       
--timeBodyGyroscopeMeanX
--timeBodyGyroscopeMeanY                              
--timeBodyGyroscopeMeanZ
--timeBodyGyroscopeStdX                               
--timeBodyGyroscopeStdY
--timeBodyGyroscopeStdZ                              
--timeBodyGyroscopeJerkMeanX
--timeBodyGyroscopeJerkMeanY                          
--timeBodyGyroscopeJerkMeanZ
--timeBodyGyroscopeJerkStdX                           
--timeBodyGyroscopeJerkStdY
--timeBodyGyroscopeJerkStdZ                           
--timeBodyAccelerometerMagnitudeMean
--timeBodyAccelerometerMagnitudeStd                 
--timeGravityAccelerometerMagnitudeMean
--timeGravityAccelerometerMagnitudeStd               
--timeBodyAccelerometerJerkMagnitudeMean
--timeBodyAccelerometerJerkMagnitudeStd               
--timeBodyGyroscopeMagnitudeMean
--timeBodyGyroscopeMagnitudeStd                       
--timeBodyGyroscopeJerkMagnitudeMean
--timeBodyGyroscopeJerkMagnitudeStd                   
--frequencyBodyAccelerometerMeanX
--frequencyBodyAccelerometerMeanY                     
--frequencyBodyAccelerometerMeanZ
--frequencyBodyAccelerometerStdX                      
--frequencyBodyAccelerometerStdY
--frequencyBodyAccelerometerStdZ
--frequencyBodyAccelerometerMeanFrequencyX
--frequencyBodyAccelerometerMeanFrequencyY            
--frequencyBodyAccelerometerMeanFrequencyZ
--frequencyBodyAccelerometerJerkMeanX                 
--frequencyBodyAccelerometerJerkMeanY
--frequencyBodyAccelerometerJerkMeanZ                 
--frequencyBodyAccelerometerJerkStdX
--frequencyBodyAccelerometerJerkStdY                  
--frequencyBodyAccelerometerJerkStdZ
--frequencyBodyAccelerometerJerkMeanFrequencyX
--frequencyBodyAccelerometerJerkMeanFrequencyY
--frequencyBodyAccelerometerJerkMeanFrequencyZ
--frequencyBodyGyroscopeMeanX
--frequencyBodyGyroscopeMeanY                         
--frequencyBodyGyroscopeMeanZ
--frequencyBodyGyroscopeStdX
--frequencyBodyGyroscopeStdY
--frequencyBodyGyroscopeStdZ
--frequencyBodyGyroscopeMeanFrequencyX
--frequencyBodyGyroscopeMeanFrequencyY
--frequencyBodyGyroscopeMeanFrequencyZ
--frequencyBodyAccelerometerMagnitudeMean
--frequencyBodyAccelerometerMagnitudeStd
--frequencyBodyAccelerometerMagnitudeMeanFrequency    
--frequencyBodyAccelerometerJerkMagnitudeMean
--frequencyBodyAccelerometerJerkMagnitudeStd
--frequencyBodyAccelerometerJerkMagnitudeMeanFrequency
--frequencyBodyGyroscopeMagnitudeMean
--frequencyBodyGyroscopeMagnitudeStd
--frequencyBodyGyroscopeMagnitudeMeanFrequency
--frequencyBodyGyroscopeJerkMagnitudeMean
--frequencyBodyGyroscopeJerkMagnitudeStd              
--frequencyBodyGyroscopeJerkMagnitudeMeanFrequency
+- timeBodyAccelerometerMeanX
+- timeBodyAccelerometerMeanY
+- timeBodyAccelerometerMeanZ
+- timeBodyAccelerometerStdX                           
+- timeBodyAccelerometerStdY
+- timeBodyAccelerometerStdZ                           
+- timeGravityAccelerometerMeanX
+- timeGravityAccelerometerMeanY                 
+- timeGravityAccelerometerMeanZ
+- timeGravityAccelerometerStdX                        
+- timeGravityAccelerometerStdY
+- timeGravityAccelerometerStdZ                        
+- timeBodyAccelerometerJerkMeanX
+- timeBodyAccelerometerJerkMeanY                      
+- timeBodyAccelerometerJerkMeanZ
+- timeBodyAccelerometerJerkStdX                       
+- timeBodyAccelerometerJerkStdY
+- timeBodyAccelerometerJerkStdZ                       
+- timeBodyGyroscopeMeanX
+- timeBodyGyroscopeMeanY                              
+- timeBodyGyroscopeMeanZ
+- timeBodyGyroscopeStdX                               
+- timeBodyGyroscopeStdY
+- timeBodyGyroscopeStdZ                              
+- timeBodyGyroscopeJerkMeanX
+- timeBodyGyroscopeJerkMeanY                          
+- timeBodyGyroscopeJerkMeanZ
+- timeBodyGyroscopeJerkStdX                           
+- timeBodyGyroscopeJerkStdY
+- timeBodyGyroscopeJerkStdZ                           
+- timeBodyAccelerometerMagnitudeMean
+- timeBodyAccelerometerMagnitudeStd                 
+- timeGravityAccelerometerMagnitudeMean
+- timeGravityAccelerometerMagnitudeStd               
+- timeBodyAccelerometerJerkMagnitudeMean
+- timeBodyAccelerometerJerkMagnitudeStd               
+- timeBodyGyroscopeMagnitudeMean
+- timeBodyGyroscopeMagnitudeStd                       
+- timeBodyGyroscopeJerkMagnitudeMean
+- timeBodyGyroscopeJerkMagnitudeStd                   
+- frequencyBodyAccelerometerMeanX
+- frequencyBodyAccelerometerMeanY                     
+- frequencyBodyAccelerometerMeanZ
+- frequencyBodyAccelerometerStdX                      
+- frequencyBodyAccelerometerStdY
+- frequencyBodyAccelerometerStdZ
+- frequencyBodyAccelerometerMeanFrequencyX
+- frequencyBodyAccelerometerMeanFrequencyY            
+- frequencyBodyAccelerometerMeanFrequencyZ
+- frequencyBodyAccelerometerJerkMeanX                 
+- frequencyBodyAccelerometerJerkMeanY
+- frequencyBodyAccelerometerJerkMeanZ                 
+- frequencyBodyAccelerometerJerkStdX
+- frequencyBodyAccelerometerJerkStdY                  
+- frequencyBodyAccelerometerJerkStdZ
+- frequencyBodyAccelerometerJerkMeanFrequencyX
+- frequencyBodyAccelerometerJerkMeanFrequencyY
+- frequencyBodyAccelerometerJerkMeanFrequencyZ
+- frequencyBodyGyroscopeMeanX
+- frequencyBodyGyroscopeMeanY                         
+- frequencyBodyGyroscopeMeanZ
+- frequencyBodyGyroscopeStdX
+- frequencyBodyGyroscopeStdY
+- frequencyBodyGyroscopeStdZ
+- frequencyBodyGyroscopeMeanFrequencyX
+- frequencyBodyGyroscopeMeanFrequencyY
+- frequencyBodyGyroscopeMeanFrequencyZ
+- frequencyBodyAccelerometerMagnitudeMean
+- frequencyBodyAccelerometerMagnitudeStd
+- frequencyBodyAccelerometerMagnitudeMeanFrequency    
+- frequencyBodyAccelerometerJerkMagnitudeMean
+- frequencyBodyAccelerometerJerkMagnitudeStd
+- frequencyBodyAccelerometerJerkMagnitudeMeanFrequency
+- frequencyBodyGyroscopeMagnitudeMean
+- frequencyBodyGyroscopeMagnitudeStd
+- frequencyBodyGyroscopeMagnitudeMeanFrequency
+- frequencyBodyGyroscopeJerkMagnitudeMean
+- frequencyBodyGyroscopeJerkMagnitudeStd              
+- frequencyBodyGyroscopeJerkMagnitudeMeanFrequency
 
 **Transformations**
 1. Reading datasets from zip file (assuming zip file is already unziped and saved in local machine - link in README.md);
